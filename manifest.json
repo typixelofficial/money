@@ -1,0 +1,10 @@
+{
+  "name": "Note Fund",
+  "short_name": "Note Fund",
+  "description": "Track every rupee. Never forget a balance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
